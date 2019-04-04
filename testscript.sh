@@ -1,1 +1,1 @@
-echo "Pushed to git"
+echo "Pushed to git 22"
